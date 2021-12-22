@@ -20,17 +20,17 @@ public class NewClass {
      File archivo= null;
      
         Ejercicio.info(); // Ejercicio 1
-     //   archivo = Ejercicio.crear(archivo); // Ejercicio 2
-      //  Ejercicio.mostrar(archivo); //Ejercicio 3
+        archivo = Ejercicio.crear(archivo); // Ejercicio 2
+        Ejercicio.mostrar(archivo); //Ejercicio 3
         Ejercicio.directorios(); //Ejercicio 4
-       // Ejercicio.copiar(); //Ejercicio 5a
-       // Ejercicio.mover(archivo); // Ejercicio 5b
-       // Ejercicio.borrardirectorio(); //Ejercicio 6
-      //  Ejercicio.leerFile(); // Ejercicio 7
-       // Ejercicio.leerBuffer(); // Ejercicio 8
-      //  Ejercicio.usuario(); //Ejercicio 9
-       // Ejercicio.escribirBuffer(); // Ejercicio 10
-      //  Ejercicio.linea(); //Ejercicio 11
+        Ejercicio.copiar(); //Ejercicio 5a
+        Ejercicio.mover(archivo); // Ejercicio 5b
+        Ejercicio.borrardirectorio(); //Ejercicio 6
+        Ejercicio.leerFile(); // Ejercicio 7
+        Ejercicio.leerBuffer(); // Ejercicio 8
+        Ejercicio.usuario(); //Ejercicio 9
+        Ejercicio.escribirBuffer(); // Ejercicio 10
+        Ejercicio.linea(); //Ejercicio 11
     }
 
 }
